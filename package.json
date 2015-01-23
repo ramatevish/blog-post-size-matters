@@ -1,0 +1,17 @@
+{
+  "name": "size-matters",
+  "version": "1.0.0",
+  "description": "An example of what minification and gzip can do for you",
+  "author": "R Alex Matevish <alex@matevi.sh>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramatevish/size-matters"
+  },
+  "bugs": {
+    "url": "https://github.com/ramatevish/size-matters/issues"
+  },
+  "dependencies": {
+    "primus": "*",
+    "async": "~0.8.0"
+  }
+}
