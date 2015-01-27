@@ -1,4 +1,4 @@
 .gitignore
-.DS_STORE
+.DS_Store
 build/
 node_modules/
